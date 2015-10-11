@@ -1,0 +1,8 @@
+.idea
+.gradle
+*.iml
+*.ipr
+out
+build
+!.gitkeep
+/bin
